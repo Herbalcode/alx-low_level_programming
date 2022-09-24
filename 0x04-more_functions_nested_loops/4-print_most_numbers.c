@@ -2,11 +2,9 @@
 
 /**
  * more_numbers - prints more numbers 
- *
- * Return:
  */
 
-void more_numbers(void)
+void print_ more_numbers(void)
 {
 	int i;
 
