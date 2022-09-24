@@ -3,9 +3,7 @@
 
 /**
  * print_array - this function prints n elements of an array of integers.
- *
  * @a: pointer parameter
- *
  * @n: integer variable
  * 
  */
