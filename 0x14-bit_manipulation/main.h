@@ -2,11 +2,6 @@
 #define MAIN_H_
 
 #include <stdio.h>
-/**
- *prototype of my functions
- *are here.
- *
- */
 
 
 unsigned int binary_to_uint(const char *b);
