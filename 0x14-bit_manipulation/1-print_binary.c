@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * print_binary - Entry Point
  * @n: dec input
