@@ -1,6 +1,7 @@
 #ifndef MAIN_H_
 #define MAIN_H_
 
+#include <stdio.h>
 /**
  *prototype of my functions
  *are here.
