@@ -32,8 +32,6 @@ int sub(int j, int k)
 }
 
 
-
-
 /**
 * div - divides two integers
 * @j: first integer 
@@ -72,4 +70,3 @@ int mod(int j, int k)
 {
         return (j % k);
 }
-
